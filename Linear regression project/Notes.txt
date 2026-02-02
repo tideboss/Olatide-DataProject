@@ -1,0 +1,1 @@
+In this project, I built a linear regression prediction system to predict the insurance cost of customers.
