@@ -1,0 +1,24 @@
+I used excel to perform the data wrangling,processing, analysis and visualisation.
+I started by opening the data set and getting familiar with the data involved, i was able to get that the data is from difrrent social media platform showing post, the experience the post was potraying and setiments of the post to some metrics like it npo of comment, likes , shares.
+First and foremost, i decided that all the data set has to be in a sheet, and before that could be done, i have to clean each of them individually. I standardized the columns to include the usable metrics and deleted others, i changed values that had k in them to their appropriate values in thousand and i standardized the dates. 
+The operation i mainly used where the find and replace, for this.
+After i was done i created a new column in each platform data set to indicate what platform the post where from. 
+After the whole data wrangling process i merged the 3 sheets into 1, formatted it and got it ready for analysis.
+i created another sheet for my pivot tables and i started analyzing.
+before analyzing i had a few problems, what question was i supposed to answer with my analyzation, i drafted out 4 questions which were
+what platform had more engagements,
+which sentiments trended more on what platform
+how did engagement trend with time and
+which experience had the most total engagement.
+Now after this questions where settled, i realized i had a little problem, how do i measure engagements,
+how do i track sentiments and experience platform engagement,or what sentiment or their trend with time.
+for my first question, i had to go with no of likes to measure engagements, i beleive likes was a balance between views and other forms of engagements, since the views for the instagram data set was missing, while for the second question, i decided to use slicers on any chart i was making.
+
+I created pivot tables for Platform to sum of likes,platform to experience sum of likes,  Time to sum of likes, count of sentiments to experince , and also trend of engagement with time.
+I craeted a column for what platform had most engagement from platform to sum of like pivot table, a 100 percent bar for the platform to sentiment count of like, a trend chart for no of total likes with time and a barchart for what experience had the most engagements accross all platforms.
+The main question is what am i driving at, my analysis will give us insight into what platform farms more engagement per sentiments and experience, what experience gets more engagements all together, and what sentiments trend on whjich platform. my visualisation goes a long way in helping influencers plan their posts. what sentiments, which platform will push it further, what experience should inplan to uncover.
+
+I was able to uncover some insights in the data which includes,instagram had more engagements all together than other social media platforms, positive sentiments post had a higher no of engagemen on each no of platforms but on instagram, it shares the stage with negative sentiments. Party and travel one of the experience with more engagements during the detty december period, which resonates with the fact that the period is a period where party rages, and people travel a lot, throught the time chart we where able to see that engagement peaked a week before christmas period, which might signal a time to post before any important event for peak engage ment.
+other notable insights where most sentiments where on instagram, but restaurants had most of it engagements coming from X. Tragic post had more engagement on facebook and v logs peaked after the whole december celebrations.
+negative experience engagepent was high for traffic and clout, shopping and party had highest for neutral and positive sentiments  the experience with highest engagement is travel and party. 
+i beleive with my analysis i have been able to draw life out of the data set and display it right into our eyes for meaningful insight. 
